@@ -1,0 +1,34 @@
+{
+  "name": "fairtravel-battle-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "prisma generate",
+    "cf-typegen": "wrangler types",
+    "typecheck": "npm run generate && npm run cf-typegen && tsc --noEmit",
+    "build": "npm run typecheck && wrangler deploy --dry-run --outdir dist",
+    "dev": "npm run generate && wrangler dev",
+    "deploy": "npm run generate && npm run cf-typegen && npm run typecheck && wrangler deploy",
+    "db:migration:create": "wrangler d1 migrations create fairtravel-battle-db",
+    "db:migrate:local": "wrangler d1 migrations apply fairtravel-battle-db --local",
+    "db:migrate:remote": "wrangler d1 migrations apply fairtravel-battle-db --remote",
+    "db:seed:local": "wrangler d1 execute fairtravel-battle-db --local --file=seeds/cards.sql",
+    "db:seed:remote": "wrangler d1 execute fairtravel-battle-db --remote --file=seeds/cards.sql",
+    "cards:generate": "tsx scripts/generateCardSeed.ts",
+    "cards:seed:local": "npm run cards:generate && wrangler d1 execute fairtravel-battle-db --local --file=generated/cards.sql",
+    "cards:seed:remote": "npm run cards:generate && wrangler d1 execute fairtravel-battle-db --remote --file=generated/cards.sql"
+  },
+  "dependencies": {
+    "@prisma/adapter-d1": "^6.19.0",
+    "@prisma/client": "^6.19.0",
+    "hono": "^4.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "prisma": "^6.19.0",
+    "tsx": "^4.23.4",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.28.0"
+  }
+}

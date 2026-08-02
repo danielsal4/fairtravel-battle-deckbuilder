@@ -1,0 +1,28 @@
+{
+  "name": "fairtravel-battle-deckbuilder",
+  "version": "0.8.0",
+  "private": true,
+  "description": "Deckbuilding application for Fairtravel Battle",
+  "scripts": {
+    "client": "npm run dev --prefix client",
+    "worker": "npm run dev --prefix worker",
+    "dev": "concurrently -n WORKER,CLIENT -c auto \"npm run worker\" \"npm run client\"",
+    "dev:cloudflare": "concurrently -n WORKER,CLIENT -c auto \"npm run worker\" \"npm run client\"",
+    "build": "npm run build --prefix client && npm run build --prefix worker",
+    "build:cloudflare": "npm run build --prefix client && npm run build --prefix worker",
+    "typecheck": "npm run typecheck --prefix client && npm run typecheck --prefix worker",
+    "typecheck:cloudflare": "npm run typecheck --prefix client && npm run typecheck --prefix worker",
+    "worker:generate": "npm run generate --prefix worker",
+    "worker:types": "npm run cf-typegen --prefix worker",
+    "worker:migrate:local": "npm run db:migrate:local --prefix worker",
+    "worker:migrate:remote": "npm run db:migrate:remote --prefix worker",
+    "worker:seed:local": "npm run db:seed:local --prefix worker",
+    "worker:seed:remote": "npm run db:seed:remote --prefix worker",
+    "worker:deploy": "npm run deploy --prefix worker",
+    "setup": "npm install && npm install --prefix client && npm install --prefix worker && npm run db:generate && npm run db:migrate"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "concurrently": "^9.2.1"
+  }
+}

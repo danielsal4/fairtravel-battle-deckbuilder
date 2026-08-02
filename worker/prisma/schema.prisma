@@ -1,0 +1,61 @@
+generator client {
+  provider        = "prisma-client-js"
+  output          = "../src/generated/prisma"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./placeholder.db"
+}
+
+model Card {
+  id         Int        @id @default(autoincrement())
+  name       String
+  slug       String     @unique
+  cardNumber String     @unique
+  cost       Int        @default(0)
+  type       String
+  subtype    String?
+  rarity     String
+  attack     Int?
+  health     Int?
+  rulesText  String     @default("")
+  setCode    String     @default("FTB")
+  imageUrl   String?
+  color      String     @default("[]")
+  keywords   String     @default("")
+  isUnique   Boolean    @default(false)
+  deckLimit  Int?
+  createdAt  DateTime   @default(now())
+  updatedAt  DateTime   @updatedAt
+  deckCards  DeckCard[]
+
+  @@index([name])
+  @@index([type])
+  @@index([rarity])
+  @@index([cost])
+  @@index([color])
+}
+
+model Deck {
+  id        Int        @id @default(autoincrement())
+  name      String
+  cards     DeckCard[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  @@index([name])
+  @@index([updatedAt])
+}
+
+model DeckCard {
+  deckId   Int
+  cardId   Int
+  quantity Int  @default(1)
+  deck     Deck @relation(fields: [deckId], references: [id], onDelete: Cascade)
+  card     Card @relation(fields: [cardId], references: [id], onDelete: Restrict)
+
+  @@id([deckId, cardId])
+  @@index([cardId])
+}

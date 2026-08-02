@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Artwork coming soon</title>
+  <desc id="desc">A placeholder image for Fairtravel Battle cards without artwork.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="55%" stop-color="#312e81"/>
+      <stop offset="100%" stop-color="#581c87"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="36%" r="58%">
+      <stop offset="0%" stop-color="#93c5fd" stop-opacity=".52"/>
+      <stop offset="100%" stop-color="#93c5fd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#background)"/>
+  <rect width="800" height="1000" fill="url(#glow)"/>
+  <path d="M115 720C225 610 275 500 400 300c125 200 175 310 285 420" fill="none" stroke="#dbeafe" stroke-opacity=".24" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="400" cy="300" r="62" fill="none" stroke="#dbeafe" stroke-opacity=".38" stroke-width="14"/>
+  <text x="400" y="790" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="50" font-weight="700">FAIRTRAVEL BATTLE</text>
+  <text x="400" y="855" text-anchor="middle" fill="#bfdbfe" font-family="system-ui, sans-serif" font-size="34">ARTWORK COMING SOON</text>
+</svg>

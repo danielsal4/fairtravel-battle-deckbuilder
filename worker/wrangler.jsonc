@@ -1,0 +1,23 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "fairtravel-battle-api",
+  "main": "src/index.ts",
+  "workers_dev": true,
+  "compatibility_date": "2026-08-02",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    // "CLIENT_ORIGIN": "http://localhost:5173"
+    "CLIENT_ORIGIN": "https://fairtravel-battle-deckbuilder.warkey.workers.dev" //cloudflare
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "fairtravel-battle-db",
+      "database_id": "6d8bc381-d027-4534-aeda-abaa5900c08e",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

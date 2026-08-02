@@ -1,0 +1,24 @@
+node_modules/
+dist/
+build/
+*.log
+
+.env
+.env.*
+!client/.env.production
+
+*.db
+*.db-journal
+
+.DS_Store
+Thumbs.db
+
+.vscode/settings.json
+
+# TypeScript incremental-build artifacts
+*.tsbuildinfo
+
+# Generated JavaScript that must not sit beside TypeScript source
+client/src/*.jsx
+client/vite.config.js
+client/vite.config.d.ts
