@@ -1,0 +1,189 @@
+﻿sourceImage,cardNumber,name,cost,type,rarity,color,rulesText,rawTitleOCR,rawTypeOCR
+AOF 1.png,AOF-001,Soaring Elemental,1,Follower,Common,Red,Flying (Evades non-flying Guardians. Can attack non-flying Tacticians directly),eg ) Searing tenant,oy Elemental Followen—
+AOF 10.png,AOF-010,Strain,3,Enchantment,Common,Red,"At the start of your turn, this deals 2 damage to your hero and you draw a card",— 4 er,MW Enchantment
+AOF 100.png,AOF-100,Dark Grip,5,Spell,Epic,Black,Destroy all followers.,,ispell
+AOF 101.png,AOF-101,Inviting Soul,5,Follower,Rare,Black,Deploy — You may destroy target follower.,$e,+
+AOF 102.png,AOF-102,Darkness Cloak,3,Artifact,Rare,Black,Friendly followers have +1 attack during your team's turns. Friendly followers have +1 @ during opposing team turns,ge ay Tr],| Arti ArmonmBac ct a
+AOF 103.png,AOF-103,Black Market,3,Artifact,Epic,Black,"Once per turn — Whenever a follower you control is destroyed, draw a card.",Black is Barksct Ue,} =>. item UniqueyArtifact
+AOF 104.png,AOF-104,Soul's Eruption,1,Spell,Epic,Black,"Deal X damage to target character, where X equals the amount of followers that were destroyed this turn.",,Me
+AOF 105.png,AOF-105,Struggle,2,Enchantment,Epic,Black,"Deploy — Draw a card. Once per turn — Whenever you draw a card, all opponents mill 2 cards.","le Strugg, A \\(",
+AOF 106.png,AOF-106,Cursed Beast,3,Follower,Epic,Black,"Once per turn — Whenever an opponent draws a card, summon a @ 2} /2.@ Undead follower token 72)",Cunpecipeest s,+
+AOF 107.png,AOF-107,Shadow Assassin,4,Follower,Legendary,Black,"Level Up 3, Tactician, Swift Once per rm — Activate: Choose one * Level 1+ — Up to two target followers gain stealth until end of turn. + Level 2+ — Target weapon or armor has +2 strength until the start of your next turn. * Level 3+ — Destroy target follower that costs 4@ or less. 3%",Shachbw /A\ssassiin,"Follower Adventurer, Uniq —)Human ue) —— Level Swift 3, Tactician,"
+AOF 108.png,AOF-108,The Shadow,5,Follower,Legendary,Black,"Tactician Followers have swift. Whenever a follower attacks, their controller mills 2 cards",a =,77 S&S: Lari UniquelFollower— Varlari
+AOF 109.png,AOF-109,Advisor of the Tribes,3,Follower,Common,Colorless,"This has +2 attack/+1 health for each Lari tribe you control. (Nalari, Varlari, Thulari) Last Words — Explore for a Lari.",Achiisor of dhe THibas®,ea
+AOF 11.png,AOF-011,Flame Burst,3,Spell,Uncommon,Red,Deal 3 damage to all followers.,Elame ee,e ——— —— gegrn ~ Spell
+AOF 110.png,AOF-110,Supplies,3,Spell,Common,Colorless,"Heal 2 @ to target character, then choose two, where X is the damage healed — + Deal X damage to target character. + Put X strength counters on target follower. * Summon X @ 1 }{/1 @ Beast follower tokens",,Spell . <
+AOF 111.png,AOF-111,Frenzy,2,Spell,Common,Colorless,"Draw 2 cards, then discard 2 cards.","Frenzy, %",.@ — es s
+AOF 112.png,AOF-112,Guild Training,2,Enchantment,Common,Colorless,Friendly followers have +1 attack during team turns.,ANNE y- ZG,il
+AOF 113.png,AOF-113,Numbing Sphere,5,Artifact,Uncommon,Colorless,Deploy — Draw a card. Opposing cards cost 1@ more to play,NumbingsSphere,Vartita at yy cti—ltem) aa
+AOF 114.png,AOF-114,Raging Phoenix,3,Follower,Uncommon,Colorless,"Flying, Swift Whenever an elemental enters your field, if this is in your discard pile and you have 3@ 3@, you may pay 1@. If you do, return it to the field. 1%",agin giRhoenix Wy,Followen= Elemental
+AOF 115.png,AOF-115,Darkflame Blast,3,Spell,Uncommon,Colorless,Deal 3 damage to target character. Draw a card.,"last ""/ ie",gp me
+AOF 116.png,AOF-116,Defender's Hammer,3,Artifact,Uncommon,Colorless,"This has +2 while you control a guardian, Whenever your hero attacks, this deals X damage to target character, where X equals the attack of this weapon. Exhaust: Target follower gains guardian and loses tactician until the start of your next turn. ""Hey you! Hold this!""",Dettancler ssHam mer U.,"Artifact Weapon has while guardian, This control"
+AOF 117.png,AOF-117,Grave Aura,2,Enchantment,Rare,Colorless,Attached follower has +1 }{/+1 @ for each follower in your discard pile. A follower can only have one Grave Aura attached to it,Crave /\uraA Ww oe,"\ i i, Role Gachemtnacnt Attachm ent ="
+AOF 118.png,AOF-118,Peace Core,3,Artifact,Rare,Colorless,Characters can't attack unless their controller pays 1 @ for each attack,Peace Gore naa ee eee,© UniqueyArtifactesiitemiGore
+AOF 119.png,AOF-119,"Raphael, the Wayfinder",4,Artifact,Rare,Colorless,"After you attack with this, you may pay 1 @). If you do, explore for any card",Raphael,Artifact— Weapon
+AOF 12.png,AOF-012,Smash,2,Spell,Uncommon,Red,Choose one — * Destroy target artifact. + Destroy target follower that costs 3@ or less,ee Sn! eee,
+AOF 120.png,AOF-120,"Dina, Guardian of the Sea",5,Follower,Epic,Colorless,"Deploy — Put all other non-Crab followers into their owner's deck, then replace them with @ 1 3{/1 @ Crab follower tokens. Crab followers you control have +1 {/+1@. At the end of your turn, summon a @ 1X /1.@ Crab follower token. of",Gmarcham of ding,"= S"" 4 igh a ~~ -— Merle Deploy all non-Crab"
+AOF 121.png,AOF-121,"Paw, Herald of Unity",3,Follower,Epic,Colorless,"Tactician Once per turn — Whenever a card enters your field or support zone from your hand, explore for a card that shares at least an essence with it","Raw, feral] of Umiks7 a",AS Unique)Follower—
+AOF 122.png,AOF-122,"Anthe Kingwarden, Fugitive Vigilante",6,Follower,Legendary,Colorless,"Guardian This has +1 /+1 @ for each different essence you have. (@ @ @ @ Friendly Adventurers cost 2@ less to play. “/ must not let it happen again!""","Ringmarcen, EugitivenVigilante nthe pies",Uniqueleelomer Adventurer Secman
+AOF 123-1.png,AOF-123-1,"Arhamigo, Reality Shaper",10,Follower,Legendary,Red,"amage tovall pposing heroes for i) Dealtad feachicardiinitheit, Id Dra zone’ Destro all ‘Oppos 116 0 Destroyrall Opposing, ey, Et . Destroy alll opposing ‘enchantments Unique) Follower God 2 of12; »1","Reality; Shaper 15, ReAhiyy Shaner",Guardian loy'— hoosefone Cc Dep Dealtad
+AOF 123.png,AOF-123,"Arfacus, Reality Shaper",10,Follower,Legendary,Colorless,Guardian Deploy — Choose one * Deal 1 damage to all opposing heroes for each card in their field and support zone. * Destroy all opposing followers. * Destroy all opposing artifacts. * Destroy all opposing enchantments,"Drractus, Reality Shea: rae — \f",A ~ Ce = i Follower wemeGod) Guardian
+AOF 124.png,AOF-124,Let's Get Some Gear!,0,Quest,Common,Red,Quest — Pay 2 to explore for an artifact.,Gat Some Ca,"cd x, vA a &"
+AOF 125.png,AOF-125,Spell Practice,0,Quest,Common,Red,Quest — Pay 2 to explore for a spell or enchantment.,Spall Practica _,"ae aC aA, \— ues"
+AOF 126.png,AOF-126,Let's Form a Party!,0,Quest,Common,Red,Quest — Pay 2 to explore for a follower.,Fom akaryy,i LY
+AOF 127.png,AOF-127,Look At My Gear,0,Quest,Common,Red,"Quest — If you control an artifact, pay 2 to draw a card.",At Iihy Ceara,% LY ~
+AOF 128.png,AOF-128,How Enchanting!,0,Quest,Common,Red,"Quest — If you control an enchantment, pay 2 to draw a card.",ews iEncha anting! = tol,Quest _
+AOF 129.png,AOF-129,We're Adventurers Now!,0,Quest,Common,Red,"Quest — If you control a follower, pay 2 to draw a card.",weinebAdventurers)Now!,Ly ~
+AOF 13.png,AOF-013,Rush,1,Spell,Uncommon,Red,Target character gains +3 j{ and ranged until end of turn. (Jakes no damage from defenders),sin ee V7,4 Spell)
+AOF 130.png,AOF-130,Hero Down!,0,Quest,Common,Red,"Quest — If a friendly hero has 15 health or less, pay 2 to heal 5 health to target hero.",HeroyDo) pet,a. Quest =
+AOF 131.png,AOF-131,Hero Training,0,Quest,Common,Red,"Quest — If your hero attacked this turn, pay 2 to draw a card.",Heroplrai ning ~—_,Va Ss Quest _
+AOF 132.png,AOF-132,Master Construct,3,Artifact Follower,Epic,Black,"Tactician Other friendly Constructs have +1 }{/+1 Activated abilities of Cores you control gain +1 to their strength for each different Core you control At the end of your turn, summon a (?) 1h Construct artifact follower token",Mastce Gonstrmat one,"i Construct Artifact Follower, @7 Unig ue"
+AOF 133.png,AOF-133,Focus Point,3,Artifact,Common,Black,Deploy — Gain an essence of your choice and increase your » while you control this. (@ @ @,Focus Point pe — Cx,ae vr ps — . ts Dees x e% DLs
+AOF 134.png,AOF-134,A Dark Past,0,Quest,Common,Red,"Quest — If a friendly follower was destroyed since your last turn, pay 2 to draw a card.",Dak Past,Ls LY ~
+AOF 135.png,AOF-135,Restoring the Ruins,0,Quest,Common,Red,Quest — Pay 2 to shuffle target player's discard pile into their deck.,festering the Butts iG,~~. & Quest
+AOF 14.png,AOF-014,Enrage,2,Enchantment,Uncommon,Red,"Attached follower has +X j{, where X equals half your @ rounded down, +1 Last Words — If you have the required essences to play this card, draw a card",|= nage yf ye h \,1 alk is a L Ollow. er Follower ch —
+AOF 15.png,AOF-015,Burn,2,Enchantment,Uncommon,Red,"Deploy — Deal 2 damage to the attached character At the start of your turn, deal 1 damage to the attached character",Burn -— a Wa oe.,TEN a@racter Ac e Enchantment Attachment
+AOF 16.png,AOF-016,Flames of Greed,3,Enchantment,Uncommon,Red,"Whenever a card is added to an opponent's hand, deal 1 damage to their hero",Games of Crcac] ——,
+AOF 17.png,AOF-017,Flame Elemental,3,Follower,Rare,Red,"Tactician Other friendly Elementals have +1 }{/+1@ Once per turn — Whenever you deal damage with spells or enchantments, put a strength counter on this",Wirkeme Fllementall fa,2) Follower Elemental
+AOF 18.png,AOF-018,Redan Entertainer,3,Follower,Rare,Red,Deploy — All friendly players draw a card. (You are friendly to yourself) rss,q aS,Redan eS =
+AOF 19.png,AOF-019,"Advar, Varlari Vanguard",4,Follower,Rare,Red,"Level Up 3, Tactician * Level 1+ — Whenever you discard a card, put a strength counter on target follower. * Level 2+ — Whenever a friendly follower with a strength counter attacks, you may deal 2 damage to target character. * Level 3+ — At the end of your turn, draw two cards, then discard a card. 5 R",AdvareVarlarinVanguard,"aT — — — * Ollower, eS Warlari Uniquelé Adventurer — Level"
+AOF 2.png,AOF-002,Redan Explorer,1,Follower,Common,Red,"Tactician Whenever you perform a resource action, you may pay 1 D>. \f you do, draw a card. (Resource action: Redraw or gain mana)",Redente Bxapleren ee,Follower anes — — Redan dy =
+AOF 20.png,AOF-020,Redan Captain,4,Follower,Rare,Red,Other friendly followers have +2 0/410. 2=,Reckhn Captalin A ~ 2,"Followern— Redan Soldier, Unique)"
+AOF 21.png,AOF-021,Satchel,3,Artifact,Rare,Red,"2.@, Exhaust: Explore for an artifact, enchantment, or spell",Satchel =z A,a) fh eS once on eS —
+AOF 22.png,AOF-022,Gauntlet of Power,5,Artifact,Epic,Red,"If your hero would take damage (except by this) and you have cards in your deck, prevent that damage and mill that many cards. Whenever a card is put into your deck from an effect you control, this deals 2 damage to your hero. WA to eV or m7",coumtlet off Romar ¢,"Ar, If your hero would take by this) and"
+AOF 23.png,AOF-023,Soulite Sword,4,Artifact,Epic,Red,"After you strike with this, choose one — *Puta counter on it. + This gains pierce. * You may pay 1@. If you do, Explore for an artifact or spell. ""Legend says this ore adapts to its wielder”",Soulitessword,Vike 5 v Weapon a | —
+AOF 24.png,AOF-024,Solar Eclipse,4,Enchantment,Epic,Red,"Increase the damage and healing of your spells, enchantments, and artifacts by",) Solar [cliinsa,Se: Enchantment. Unig ue as
+AOF 25.png,AOF-025,Lasher Chestplate,4,Artifact,Epic,Red,"Whenever your hero takes battle damage as a defender, deal 2 damage to that player's hero",Lasher Ghesiplte © (Z——=>»,\S hore Nia
+AOF 26.png,AOF-026,"Tarin Spellburst, the Uncounterable",6,Spell,Legendary,Red,"Level Up 5, Tactician Level 1+ At the end of your turn, explore for a spell, enchantment, or artifact. Level 2+ Your spells, enchantments, and artifacts deal +1 damage. Level 4+ — This has + /+1 @ for each level counter it has. 6""","pe, ae Un count erable Taringspellburstgthe -— ——— Ses = Spall ee. if","Oc Adventurer Uni Human) ue Level 5, Tactician Up"
+AOF 27.png,AOF-027,"Flareo, Aspect of Fury",7,Follower,Epic,Red,"Pierce, Swift Deploy — Your other followers have pierce and +2 }{/+2.@ until end of turn. ""There ey consume ev 6 6""",Aspect of [tr 1,"Follow, Elemental Unique) —"
+AOF 28.png,AOF-028,Grove Prowler,3,Follower,Common,Green,"Untargetable until it attacks. (Can't be targeted by effects that specify a target, but can still be attacked if it's a character)",Crove Prowler eee GS,"ei Follow, Beas —"
+AOF 29.png,AOF-029,Commune with Nature,1,Spell,Common,Green,"Draw a card. If you healed a character this turn, draw two instead.",commune with Naas fi. SON eens Y,ee
+AOF 3.png,AOF-003,Varlari Trainee,3,Follower,Common,Red,,) Warland trates p\— -a We . Zoe,arlari Follower— Soldier
+AOF 30.png,AOF-030,Nalari Grove Gatherer,2,Follower,Common,Green,Deploy — Friendly players explore for a follower 72!,NalarikGrove Gatherer. Fan EW PA,fA LariNalari aa —
+AOF 31.png,AOF-031,Life Core,2,Artifact,Common,Green,"3@, Exhaust: Heal X + 1@ to all friendly characters, where X equals half your @ rounded down",Li 1a Core ~~,ntifact Core Unique Item —
+AOF 32.png,AOF-032,Grove Arms,4,Artifact,Common,Green,"Whenever your hero takes damage while defending, summon a 1 90/1 @ Beast follower token",rove L\ims,Artifact 9ArmonHands
+AOF 33.png,AOF-033,Campfire,2,Artifact,Common,Green,"Deploy — Heal 2 health to all friendly characters. At the end of your turn, destroy this and draw a card.","amp, WAS",y yy Artifact item
+AOF 34.png,AOF-034,Bloom,2,Spell,Common,Green,"Choose one — + Destroy target artifact or enchantment * Heal 3.@ to target character, then draw a card",Bloom wet SE,Spell *
+AOF 35.png,AOF-035,Nalari Skyseeker,5,Follower,Common,Green,Flying Deploy — Friendly players gaina @ and an essence of their choice. (‘@ @® 73 rs),NalaritSkyseeker. b-,Yo. Ss Followen—Uari)Nalari
+AOF 36.png,AOF-036,Parched Hound,3,Follower,Common,Green,"Whenever you heal a friendly hero, put a strength counter on this. 72!",,Follower Beast
+AOF 37.png,AOF-037,Delve into Nature,1,Spell,Common,Green,"Scout, then draw a card. (Look at the top 2 cards of your deck, then put any on the top or bottom in any order)",Delvelinto}N ature),Spell
+AOF 38.png,AOF-038,Crustacean Celebration,2,Enchantment,Rare,Green,"2@, Exhaust: Summon a @1 X16 Crab follower token. At the end of your turn, if your field is full, put a strength counter on each of your Crabs",Crustacean Gallalyraxt lon,=
+AOF 39.png,AOF-039,Hunt,3,Spell,Common,Green,"Choose one — * Destroy all followers that cost 3@ or less. * Scout, then draw two cards",,
+AOF 4.png,AOF-004,Fervor Core,2,Artifact,Common,Red,"3, Exhaust: Deal X + 1 damage to target character, where X equals half your @ rounded down",PAATOR Gore a Bi ee,= a Item = Core UniqueyArtifact/—
+AOF 40.png,AOF-040,Gift of Life,2,Enchantment,Uncommon,Green,"Whenever you summon a follower, heal 1@ to your hero",Likks —f e \,Wy]
+AOF 41.png,AOF-041,Redan Fruit Merchant,5,Follower,Uncommon,Green,Deploy — Heal 3.@ to all friendly characters. (Performs this effect when this Is put into play) 73 re),RedanykruityMerchant,“| _¢s Merchant
+AOF 42.png,AOF-042,Old Friends,3,Spell,Uncommon,Green,"Explore for a follower. If it costs 3@ or less, put it on your field if able",—,!
+AOF 43.png,AOF-043,Explorer's Map,2,Artifact,Uncommon,Green,"Whenever you explore, you may pay 1 @. If you do, draw a card",ne SE,Za item Artifact Unique =
+AOF 44-1.png,AOF-044-1,King of Flamingos,3,Follower,Rare,Red,"Tactician - Other friendly Beasts have 5), Veal At turnssummonjya cia token. Follower “Beast 3) 72 AOF R",of alam ingos KingyofeBeasts,6 Tactician  -
+AOF 44.png,AOF-044,King of Beasts,4,Follower,Rare,Green,"Tactician Other friendly Beasts have +1 {/+1.@ At the end of your turn, summon a @ 1 }0/1 @ Beast follower token 72! rs)",————_.,\ hy Followermileeast bh LS
+AOF 45.png,AOF-045,Staff of the Wilds,3,Artifact,Rare,Green,Your followers have Pierce Deploy — Summon two @ 1X10 Beast follower tokens,of Goo uMls mee,a . s
+AOF 46.png,AOF-046,Nurturing Elemental,3,Follower,Rare,Green,You can perform up to two resource actions during your turn. (Resource action: Redraw or gain mana) 72,gjElemental_ Nurturing i ent,/ = Unique Follower! iElementa 1
+AOF 47.png,AOF-047,Grove Tyrant,7,Follower,Epic,Green,"Pierce, Swift (Leftover damage when attacking Is dealt to the defending Hero, Can attack immediately) of",Grovemhyrant NI,ee
+AOF 48.png,AOF-048,Seraph's Greatsword,6,Artifact,Rare,Green,Deploy — You may choose one target to destroy: + artifact * enchantment * follower with cost 3@ or less vf,Saraps Greatsword,Artifact Weapon: s
+AOF 49.png,AOF-049,Redan Mender,4,Follower,Epic,Green,"Tactician At the end of your turn, heal 2.@ to all friendly characters ‘Don't worry, I'm here to help",ay,Followern— Redan
+AOF 5.png,AOF-005,Fire Ball,1,Spell,Common,Red,Deal 2 damage to target character.,FireyBall oe. a,-¥ Bas Spell
+AOF 50.png,AOF-050,Grove Guardian,7,Follower,Epic,Green,"Guardian, Pierce Last Words — Heal 7 @ to your hero ¥f",Grove,SL Reece cee ae s
+AOF 51.png,AOF-051,Lifestream Ritual,3,Enchantment,Epic,Green,"Attached follower has +3 }{/+3.@. Before and after attached follower attacks, heal 1 @ to it and its hero. Last Words — If you have the required essences to play this card, draw a card",os ~ >,— ¢ Enchantment Follower/Attachment
+AOF 52.png,AOF-052,Back to Nature,4,Spell,Epic,Green,"Choose one, where X equals half your @ rounded down +1 — * Destroy up to X target artifacts or enchantments * Target follower gains +X /+X@ until end of turn",Backs to Natta,Spell
+AOF 53.png,AOF-053,"Han Sweetseason, the Painter",3,Follower,Legendary,Green,"Level Up 3, Tactician. Once per turn — Activate: Choose one * Level 1+ — X Summon a token copy of target follower with a printed cos! Level 2+ x . Reveal a follower in your hand with a printed cost of X @: Summon a token copy. Level 3+ Target opponent reveals their hand. You may summon a token copy of a follower from there (pay the printed cost)",TiheyPainter Henks),i] = UniquelFollower Human Adventure
+AOF 54.png,AOF-054,"Cawn, Supporting Ally",4,Follower,Legendary,Green,"Level Up 3, Tactician Once per turn Activate: Choose one * Level 1+ — Heal 5 @ to another target character Level 2+ Summon two @ 1 & Beast follower token * Level 3+ — Puta strength counter on all followers you control",awn >A SUPPOr ting) Ally ee,"WA \f e Unique Follower, Ava)Adventurer — Level 3, Tactician Up"
+AOF 55.png,AOF-055,Thulari Mercenary,1,Follower,Common,Blue,This has +1 }¢/+1 for each Lari you control,"mhular, iwMercenany, — Aw",= Followern— mhulari Soldier
+AOF 56.png,AOF-056,Dismiss,1,Spell,Common,Blue,Return target follower to its owner's hand,®,&
+AOF 57.png,AOF-057,Capital Guard,1,Follower,Common,Blue,Guardian (Defends attacks unless it's exhausted.),,meramentsoldien Pm
+AOF 58.png,AOF-058,Aegis Core,2,Artifact,Common,Blue,"3@, Exhaust: Give target follower +X $C /+X@ until end of turn, then summon a @ 1 }{/1.@ Soldier follower token with Guardian, where X equals half your @ rounded down",Core,ies Core UniqueJArtifacteniitem i
+AOF 59-1.png,AOF-059-1,Monstrous Defeat,2,Spell,Common,Colorless,V i 'S > Destroystargetifollowerwithy4 more i Spell,Defeat Monstrous WA,V
+AOF 59.png,AOF-059,Monstrous Defeat,2,Spell,Common,Blue,Destroy target follower with 4@ or more,Mensttrons Defeat } / fe,1 Spell
+AOF 6.png,AOF-006,Treasure Dragon,5,Follower,Common,Red,"Flying, Guardian At the end of your turn, ready this. Last Words — All opponents draw a card",mre‘a’s: UITAS — eee 3. =,eo Yk Follower Dragon
+AOF 60.png,AOF-060,Upgradable Servant,3,Follower,Common,Blue,"At the end of your turn, put a strength counter on this. r2",Uncracklile Sanvanks C7 4,Construct
+AOF 61.png,AOF-061,Redan Commander,3,Follower,Common,Blue,Other friendly followers have Guardian and +1 /+1@,R;,Follower &
+AOF 62.png,AOF-062,Crustacean Recruit,2,Follower,Common,Blue,Deploy — Summon a @ 1X16 Soldier follower token with Guardian x mn),Grnstaccan Raerit,"Followerm—iGrab)Soldier, ="
+AOF 63.png,AOF-063,Plate Chausses,4,Artifact,Common,Blue,"After your hero is attacked, it gains",Pte Ghamsses,"i, Ret ae Cee nr moniter s i"
+AOF 64.png,AOF-064,Hood of the Artificer,2,Artifact,Common,Blue,Artifacts you play cost 1@ less to play,"thepArrtificer, Hogttes",ita nar aT
+AOF 65.png,AOF-065,Fountain Elemental,2,Follower,Uncommon,Blue,"Guardian This has +X 6 /+X @, where X equals half your @ rounded down",Fountain Ellamentall — Le,= a — Elemental =< ie =
+AOF 66.png,AOF-066,Overseer Construct,3,Artifact Follower,Uncommon,Blue,"Tactician Once per turn — Whenever a friendly follower attacks, summon a @ 1/1 Construct artifact follower token. 72!",Overseer Construct a,= Artifactifollower=— Construct
+AOF 67.png,AOF-067,Search for Treasure,2,Spell,Uncommon,Blue,"Explore for an artifact, then summon a @ 1 X/1.@ Construct artifact follower token. The real treasure was the constructs we made along the way""",Search for Treasure ‘-,
+AOF 68.png,AOF-068,Hideaway,2,Artifact,Uncommon,Blue,"Deploy — You may exile target follower, artifact, or enchantment while you control this A So, time of da, ed @ ent?",Hideaway;,Artifact item
+AOF 69.png,AOF-069,Watch Tower,3,Artifact,Uncommon,Blue,"Guardian followers you control have +1 /+1Q. At the end of your turn, ready all Guardian followers you control",watchhtower,ee Artifact item
+AOF 7.png,AOF-007,Armored Companion,2,Follower,Common,Red,Guardian (Defends attacks unless it's exhausted) Deploy — Explore for an artifact. rf S,,} rolewetneese seldier
+AOF 70.png,AOF-070,Soar,4,Spell,Uncommon,Blue,"Attached follower has +3 {/+3.@ and flying. Last Words — If you have the required essences to play this card, draw a card",») Soar,JAYS
+AOF 71.png,AOF-071,Guard Patrol,3,Follower,Rare,Blue,Deploy — Summon two @ 1/18 Soldier follower tokens with Guardian 72!,—s Patra,ie Cttiem Siena i —
+AOF 72.png,AOF-072,"Larial ""Toolbox"" Rine",3,Follower,Rare,Blue,"Level Up 3, Tactician. + Level 1+ At the end of your turn, summon a @ 1 34/1 @ Construct artifact follower token. + Level 2+ Artifacts you control enter the field with an additional strength counter. * Level 3+ — Exhaust this and an artifact you control: Draw a card, 72!",i “ioellboss?,"——- = —— UniquelFollower —|tarimhulari/Adven urer Level 3, Tactician. Up"
+AOF 73.png,AOF-073,Reinforce The Guard,4,Spell,Rare,Blue,"Put X strength counters on target follower with guardian or weapon, where X equals half your @, rounded down",— »,—
+AOF 74.png,AOF-074,Construct Factory,1,Artifact,Rare,Blue,"Whenever an artifact enters your support zone, summon a @1X/1@ Construct artifact follower token",Construct FAGtOI7,i vi] — Raisins Anes We — —
+AOF 75.png,AOF-075,Warrant,3,Spell,Rare,Blue,Return all followers to their owner's hand,Warrant —,| LO
+AOF 76.png,AOF-076,Soldier Training,2,Enchantment,Epic,Blue,Friendly followers enter fields with an additional strength counter,_~,{ ) i & ;
+AOF 77.png,AOF-077,"Urizel, Fledgling Adventurer",3,Follower,Epic,Blue,"Whenever an opponent summons a follower, put a strength counter on this. ""I'm not a small fry, I'm a big potato!"" 72! a)",Uiredicll Flecdiing Achantira: ee Wa,we | = Traveler
+AOF 78.png,AOF-078,Raise Morale,4,Spell,Epic,Blue,Ready all characters and weapons you control,) Ratise IMoralks BR ee @ Ra,\e » NS CY
+AOF 79.png,AOF-079,Swiftwind Slasher,4,Artifact,Epic,Blue,"Once per turn — Whenever you strike with this and defeat an opposing character, ready this and your hero y",Slaciar ~ =,~~ Artifact) — ¥
+AOF 8.png,AOF-008,Blacksmith,3,Follower,Common,Red,Deploy — Choose one + Put two strength counters on target follower. * Put a strength counter on target weapon or armor,Blacksmith ORB,Follower— SS)
+AOF 80.png,AOF-080,"Al'Kufa, Ambassador of the Tribes",4,Follower,Legendary,Blue,"Tactician Other friendly followers have +1 {/+1@ 2@, Exhaust: Draw a card for each Lari tribe you control. (Na/ari, Varlari, Thulari) ‘We can all work together, join our efforts and grow 72!",NT res A Zan,ee ae gb PariNalari
+AOF 81.png,AOF-081,"Sul Quillenof, Knowledge Wielder",2,Follower,Legendary,Blue,"Level Up 3, Tactician. Activate: Choose one Once per turn Level 1+ — Target player mills 5 cards. Level 2+ — Discard two cards, then return target card from your discard pile to your hand. Level 3+ Shuffle your discard pile into your deck, then discard your hand and draw that many cards. ""! must find the truth about this world""",sat,"| gv y/ e \ 4 a e: Follower Human Level Up 3, Tactician."
+AOF 82.png,AOF-082,Lost Soul,3,Follower,Common,Black,"Last Words — Deal 2 damage to your hero, then summon a @ 2 /2@ Undead follower token. All they wanted was a friend 72 m)",OU Lost Na ee ne *,Follower=Undead|Redan
+AOF 83.png,AOF-083,Obliterate,3,Spell,Common,Black,Destroy target follower or enchantment,obliterate i,nt
+AOF 84.png,AOF-084,Redan Thief,2,Follower,Common,Black,Swift (Can attack immediately) Deploy — Target player discards a card,This WS,=
+AOF 85.png,AOF-085,Gloom Core,2,Artifact,Common,Black,"3. @, Exhaust: Give target follower -X 96 /-X@ until end of turn, then summon a @ 2}{/2@ Undead follower token, where X equals half your @ rounded down",) Gloom Gora,UniqueyArtifact— item Core - woe
+AOF 86.png,AOF-086,Whispering Book,2,Artifact,Common,Black,Once per turn — The next card you play costs 1 > less to play,"») mos “é,",UniqueyArtifact{—jltem) = +
+AOF 87.png,AOF-087,Slimy,4,Follower,Common,Black,"Whenever you a card, puta strength counter on this, and it gains stealth until end of turn. @), Discard a card: Your followers gain +1 }¢ until end of turn","Slimy, Keb",Tarte 2D Followern— Elemental en
+AOF 88.png,AOF-088,Enfeeble,3,Enchantment,Common,Black,Each follower gets -2 }{ /-2.@ until end of turn,ecu sa,oe Tu
+AOF 89.png,AOF-089,Siphon Essence,3,Spell,Common,Black,"Deal 3 damage to target character. Heal X@ to your hero, where X equals the damage dealt","8 hongEssence: IP,",Phe Ae Spell) = —
+AOF 9.png,AOF-009,Energy Strike,3,Spell,Common,Red,Deal 4 damage to target character,Ghergy Sttils Strike,EN Spell
+AOF 90.png,AOF-090,Chains,2,Enchantment,Common,Black,Return target follower to its owner's hand.,,eenanene = WwAttachment q §
+AOF 91-1.png,AOF-091-1,Call of Darkness,3,Enchantment,Common,Black,"2, Exhaust: Choose one — *Summon a @ 2/2. Undead follower token. + Followers you control have +1 3 until end of turn",call] off oe,au io. Enchantment —
+AOF 91.png,AOF-091,Call of Darkness,3,Enchantment,Common,Black,"2@, Exhaust: Choose one — «Summon a @ 2/2 Undead follower token. * Followers you control have +1 j¢ until end of turn",i,| $f | Se
+AOF 92.png,AOF-092,Undead Mob,1,Follower,Uncommon,Black,This has +1 3 /+1 @ for each follower card in your discard pile y,TEESE! ee ee ON a,"b e ~Si,\"
+AOF 93.png,AOF-093,Threaten,2,Spell,Uncommon,Black,Target player reveals their hand. You may choose a card for that player to discard,os I,“4 in Sal
+AOF 94.png,AOF-094,Darkness Sword,2,Artifact,Uncommon,Black,"Whenever you destroy a follower while you don't control a weapon, return this from your discard pile to your support zone.",— 2) Stond,pon Artifact Wea
+AOF 95.png,AOF-095,Darkness Crossbow,3,Artifact,Uncommon,Black,Ranged (Jakes no damage from defenders),aukness @rosshow serene at ¢,gies Swear
+AOF 96.png,AOF-096,Darkness Hunter,1,Follower,Uncommon,Black,"Flying As an additional cost to attack with this discard a card This has +X #6 /+X @, where X equals half your @ rounded down xf",Darknesalunter,tl AREECule Y cc Followe Wagan
+AOF 97.png,AOF-097,Varlari Necromancer,5,Follower,Uncommon,Black,"Deploy — Return target follower card in your discard pile to your hand. If it costs 4@ or less, return it to your field instead if able. 3%",Warlad Neeromean Cer 2,"NG TRE Eoll arlani en— Lar, ~~"
+AOF 98.png,AOF-098,Master of Undeath,3,Follower,Rare,Black,"Tactician Other friendly Undead have +1 }{/+1.@. Whenever another undead enters your field, deal 2 damage to all opposing SONS 3%",Master of Unckatn —,ES Followern— Undead
+AOF 99.png,AOF-099,Darkness Lookout,3,Follower,Rare,Black,"Flying Whenever this attacks, you may have another target follower get -2 {/-2@ until end of turn",,Follower=|Undead
+EDL 1.png,EDL-001,Draconic Crush,1,Spell,Special,Red,"Destroy target follower, artifact, or enchantment.",———  DREAXCOMKE Grush o” a ah | -,ay Spell = = Ea)
+EDL 10.png,EDL-010,Fervorous Dragon Lord,0,Chaos Keeper,Special,Red,Has +3 jf during your turn,~» Dragan Lor),tesccie Rees eB
+EDL 11.png,EDL-011,"Fervorous Dragon Lord, Enraged Fire",0,Chaos Keeper,Special,Red,"Has +6 during your turn At the start of your turn, if you have less than 3 cards in your hand, draw a card At the end of your turn, summon a @ 2/2 Fervorous Dragon Whelp follower token",Ow ee jenraged Fire | PT anc Ss,EePS tsa cipes (EBD
+EDL 12.png,EDL-012,"Fervorous Dragon Lord, Ultimate Fury",0,Chaos Keeper,Special,Red,"Has +9 }¢ during your turn. At the start of your turn, if you have less than 3 cards in your hand, draw a card. At the end of your turn, summon two @ 2/28 Fervorous Dragon Whelp follower tokens. Followers you control have +3 %f. =>0",Dragon,> —— ee }¢ during
+EDL 13.png,EDL-013,Fervorous Dragon Sentry,6,Follower,Special,Red,"Guardian At the end of your turn, ready this rs d",Saaiy) ASATOLOUS,Follower— Dragon: aaa
+EDL 14.png,EDL-014,Fervorous Dragon Whelp,3,Follower,Special,Red,,Bg eso,
+EDL 15.png,EDL-015,Tail Swipe,4,Spell,Special,Red,"Deal X damage to all opposing characters, where X equals twice the current boss phase",~» TaillSwipe) aN,Spell vy
+EDL 16.png,EDL-016,Aegis Dragon Lord,0,Chaos Keeper,Special,Blue,Has +2 3 during your turn,Fords,Kahrs traeperr pine ~~ <i a
+EDL 17.png,EDL-017,"Aegis Dragon Lord, Awakened",0,Chaos Keeper,Special,Blue,"Has +434 during your turn. At the start of your turn, if you have less than 3 cards in your hand, draw a card. At the start of your turn, explore for a spell or enchantment. Your followers have Guardian. =*0",3Dragontbard Awakened |,Kaneda Croapar Pakee = hl \ during
+EDL 18.png,EDL-018,"Aegis Dragon Lord, Overwhelming",0,Chaos Keeper,Special,Blue,"Has +6 during your turn. At the start of your turn, if you have less than 3 cards in your hand, draw a card. At the start of your turn, explore for a spell or enchantment. Your followers have Guardian. Whenever you draw a card, deal 1 damage to all opposing heroes. =°0",Dmg tor core,"= 27 Sy Chaos Phase}, — Keeper -"
+EDL 19.png,EDL-019,Empowered Fountain Elemental,3,Follower,Special,Blue,"Guardian This has +X §/+X@, where X is your @. oY",» Fountain Elemental wie G,Follower Elemental =
+EDL 1B.png,EDL-001B,Fervorous Dragon Whelp,3,Follower,Special,Red,,Bg eso,anes Tokenjec = —
+EDL 2.png,EDL-002,Draconic Boast,2,Spell,Special,Red,Draw a card for each opposing hero,— pane Draconis Boast —,—_— Spell) a8 — —_
+EDL 20.png,EDL-020,Empowered Guard Patrol,5,Follower,Special,Blue,Deploy — Summon two @ 3X /6@ Dragon Guardian Soldier follower tokens with Guardian,"EmpowerediGuard| Patrol,",Elliciren Cie SAD ft —
+EDL 21.png,EDL-021,Empowered Upgradable Servant,4,Artifact Follower,Special,Blue,"At the end of your turn, put two strength counters on this a",Baporred Uraeio em io a),res ArtifactjFollower— Construct ee
+EDL 22.png,EDL-022,Draconic Shift,5,Enchantment,Special,Blue,Your followers have +3 }{/+3,Draconte SHR,aetna a= Unique
+EDL 23.png,EDL-023,Draconic Guardians,5,Spell,Special,Blue,Summon three @ 3}{/6@ Dragon Guardian Soldier follower tokens with Guardian,Dra conickGuardians_ $ be,Spell
+EDL 24.png,EDL-024,Empowered Darkflame Blast,4,Spell,Special,Colorless,Deal 6 damage to target character Draw a card,relies hapewered] De IB a,"~ aN >, ee Spell) oe ore."
+EDL 25.png,EDL-025,Draconic Keep,5,Artifact,Special,Blue,"At the end of your turn, summon a @ 3 36/6 Dragon Guardian Soldier follower token with Guardian",Draconis Kecp 2°,od Artifact —jltem
+EDL 26.png,EDL-026,Draconic Might,4,Spell,Special,Colorless,Deal damage to each opposing follower equal to the amount of cards in your hand,Brasonis Might _-,Bes: Spell
+EDL 27.png,EDL-027,Treasure Hoard,4,Artifact,Special,Black,"Whenever a character attacks, its controller draws a card",TreasurelHoard ew.,Unique Artifactt—
+EDL 28.png,EDL-028,Draconic Arbiter,5,Follower,Special,Blue,Tactician Opposing cards cost 1@) more to play. my,Draconiie Ariicr,— etre Dragon TRS
+EDL 2B.png,EDL-002B,Dragon Guardian Soldier,0,Token Follower,Special,Blue,Guardian,"GuardiantSoldier, a Ni",Dracantsoldier Token|Follower | 2 =
+EDL 3.png,EDL-003,Empowered Fire Ball,3,Spell,Special,Red,Deal 3 damage to all opposing characters.,"Empowered] ize Ball v/,",‘Spell 4)
+EDL 4.png,EDL-004,Empowered Flame Burst,4,Spell,Special,Red,Deal 5 damage to all opposing characters.,-- —— Empo Flame)Burst,Spell TR . =
+EDL 5.png,EDL-005,Draconic Obliteration,7,Spell,Special,Red,Destroy all opposing followers.,Draconis Obliteration =) SA,ai
+EDL 6.png,EDL-006,Draconic Reinforcements,6,Spell,Special,Red,Summon 6 @ 2} /2.@ Fervorous Dragon Whelp follower tokens,a Drac OnicaReinforcements <>,) Spell — = —
+EDL 7.png,EDL-007,Draconic Roar,3,Spell,Special,Red,Your hero gains +5 3 until end of turn,"DraconicaRoar,",
+EDL 8.png,EDL-008,Draconic Strength,6,Enchantment,Special,Red,Dragon followers you control have +2 N/+2Q Your hero has ranged,Draconis Strangin,a: Se
+EDL 9.png,EDL-009,Draconic Threat,6,Spell,Special,Blue,Draw cards until you reach your maximum hand size,» Draconis Thircat Y,id
+STD 1.png,STD-001,Anthe Kingwarden,0,Hero,Hero,Black,,Anthe R Ingiwar den Py 7,Lt At f © “
+STD 10.png,STD-010,"Timoteo ""Tim"" Shattershot",0,Hero,Hero,Colorless,,Timoteo es Renate sy (ie,amd
+STD 1B-1.png,STD-001B-1,Crab,0,Token Follower,Token,Green,,A\,Crab Token Se F Follower
+STD 1B.png,STD-001B,Crab,0,Token Follower,Token,Green,,\y,_~——“ perma = anit
+STD 2.png,STD-002,Aurelia,0,Hero,Hero,Black,,"IN Alur, ILL élia il i Wl",—S RS
+STD 2B-1.png,STD-002B-1,Beast,0,Token Follower,Token,Black,Token) Follower —«Beast,Beast,os
+STD 2B-2.png,STD-002B-2,Beast,0,Token Follower,Token,Green,,—L~ Py,4  — i Pe er Beast Follow. oken) =
+STD 2B.png,STD-002B,Beast,0,Token Follower,Token,Green,,eres,
+STD 3.png,STD-003,Aurelius,0,Hero,Hero,Colorless,,iy US: eee ih,a4 S YS
+STD 3B-1.png,STD-003B-1,Undead,0,Token Follower,Token,Black,,ely ‘Warlecd] ‘w —~,Follower— Undead Token Ss
+STD 3B.png,STD-003B,Undead,0,Token Follower,Token,Black,,Undea <a,Token/Follower—Undead
+STD 4.png,STD-004,"Cawn, Flourishing Adventurer",0,Hero,Hero,Colorless,,"Cawn, Ie sh Ring yenturer SE J f/",q
+STD 4B.png,STD-004B,Construct,0,Artifact Follower,Token,Blue,,B,= ArtifactiFollower— |
+STD 5.png,STD-005,"Dina, Protector of the Azure Sea",0,Hero,Hero,Black,,ee Me,ry (Nee <
+STD 5B.png,STD-005B,Soldier,0,Token Follower,Token,Blue,Guardian,— —,
+STD 6.png,STD-006,Growth,0,Spell,Token,Black,Gain 1 until end of turn.,Growth,"""spell at"
+STD 7.png,STD-007,Nahuri Rivers,0,Hero,Hero,Black,,Nahui Rivers“ -,
+STD 8.png,STD-008,Sul Quillenof,0,Hero,Hero,Colorless,,Sul Quillcroft! gM,aeese
+STD 9.png,STD-009,Tarin Spellburst,0,Hero,Hero,Colorless,,Tarin’Spel bursts,Lg *

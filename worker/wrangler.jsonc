@@ -9,7 +9,6 @@
     "enabled": true
   },
   "vars": {
-    // "CLIENT_ORIGIN": "http://localhost:5173"
     "CLIENT_ORIGIN": "https://fairtravel-battle-deckbuilder.warkey.workers.dev" //cloudflare
   },
   "d1_databases": [

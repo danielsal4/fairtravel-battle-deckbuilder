@@ -32,7 +32,8 @@ export function CardArtwork({
       aria-hidden={decorative || undefined}
       loading="lazy"
       decoding="async"
-      onError={() => {
+      onError={(err) => {
+        console.log('error: ', err)
         if (source !== fallbackCardArtworkUrl) {
           setSource(fallbackCardArtworkUrl);
         }

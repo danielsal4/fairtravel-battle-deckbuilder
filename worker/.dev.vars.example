@@ -1,2 +1,0 @@
-# Optional. When present, protects /api/card-data/import.
-ADMIN_TOKEN=replace-with-a-long-random-value
